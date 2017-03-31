@@ -1,6 +1,5 @@
-package com.ravi.string;
 import java.util.*;
-public class CharPer 
+public class CountVaariousCharacters 
 {
     
 	public static void main(String[] args) 
@@ -36,6 +35,6 @@ public class CharPer
 		System.out.println("Number of upper case Alphabets is"+capital);
 		System.out.println("Number of Numbers is"+number);
 		System.out.println("Number of  Special symbols is"+symbol);
-	9	}
+		}
 
 }
