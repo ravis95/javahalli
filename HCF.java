@@ -1,4 +1,5 @@
-package com.ravi.Number;
+/**LOGIC:If the difference between the two numbers divides both the numbers perfectly(i.e Remainder should be equal to 0) then the difference is the HCF
+else if it doesn't divide then the find the factors of the difference and the highest factor of difference which divides the two numbers is the HCF.*/
 import java.util.*;
 public class HCF 
 {
